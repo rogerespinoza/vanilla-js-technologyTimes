@@ -1,4 +1,4 @@
-## Technologytimes
+## TechnologyTimes
 
 Website create by test, created with vanilla js.
 
